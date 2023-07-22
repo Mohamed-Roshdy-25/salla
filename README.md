@@ -43,3 +43,8 @@ An e-commerce app dealing with :
 <img src="https://github.com/MoRoshdy/company-work-system/assets/92895129/21d2a884-7796-4ce6-ac97-b04061ccf648" width=200 height=400>
 
 </div>
+
+
+## project video
+
+[video for the project](https://www.youtube.com/watch?v=bNH4u0PcuwI&t=35s)
